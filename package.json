@@ -1,0 +1,29 @@
+{
+  "name": "node_api",
+  "version": "1.0.0",
+  "description": "API construida com NODE JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ContatoViniciusGuanabara/node_api.git"
+  },
+  "keywords": [
+    "API",
+    "NODE.JS",
+    "JAVASCRIPT",
+    "GIT",
+    "GITHUB"
+  ],
+  "author": "Vinicius Guanabara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ContatoViniciusGuanabara/node_api/issues"
+  },
+  "homepage": "https://github.com/ContatoViniciusGuanabara/node_api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
